@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Lorem
 
-You can use the [editor on GitHub](https://github.com/SC5/cloud-first-ai-site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Donec sit amet nunc vitae tellus faucibus fringilla in quis est. Nullam porttitor ex non rhoncus consequat. Cras egestas porttitor lacus faucibus congue. Morbi ac tortor diam. Quisque malesuada leo et vehicula consequat. Sed pellentesque risus nec tellus egestas, at ornare diam consequat. Pellentesque ac urna bibendum, finibus tortor sit amet, feugiat turpis. Fusce maximus ipsum sed tincidunt lobortis. In ornare risus vel orci tristique ornare.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Curabitur lobortis sodales malesuada. Etiam sed interdum turpis. Mauris maximus magna turpis, non luctus est gravida non. Nam egestas pharetra metus, eget lobortis metus aliquam cursus. Ut posuere condimentum ex, convallis fermentum enim ultrices vel. Suspendisse est nunc, feugiat ut metus eget, scelerisque vulputate lorem. Nunc tincidunt risus non tristique fermentum. Aliquam lobortis in ante nec sodales. Vivamus ac dolor mollis, mollis nulla id, porta enim. Sed congue felis ante, at dignissim sapien tristique sit amet. Donec eu tempus felis, vitae semper risus. Donec consequat, felis porta mollis scelerisque, magna velit pellentesque enim, nec dapibus dolor nulla at lorem. Aenean auctor varius nunc id consectetur. Ut consequat purus sit amet ornare convallis.
 
-### Markdown
+### Ipsum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SC5/cloud-first-ai-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et porttitor diam, sed sollicitudin nunc. Nam gravida, risus eu tempor imperdiet, ex ligula mattis eros, quis hendrerit dui quam nec lorem. Pellentesque ac lacus eget ipsum eleifend pretium. Aenean dignissim fringilla faucibus. Morbi tincidunt ex eu magna dictum fringilla. Aenean sed libero quis purus malesuada auctor sit amet gravida lorem. Integer iaculis bibendum arcu, et dictum turpis rhoncus vel. Cras et pulvinar lectus, vitae tincidunt quam. Suspendisse pulvinar ultrices magna eu eleifend. Vestibulum nunc nibh, elementum volutpat nibh in, cursus placerat elit. Cras eget ipsum ac magna molestie bibendum. Pellentesque dictum quis tellus in posuere.
