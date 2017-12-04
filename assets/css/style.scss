@@ -1,0 +1,80 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: 'Barlow Condensed';
+  color: rgba(96, 108, 113, 0.77);
+  background-color: rgba(238, 185, 44, 0.02);
+}
+
+.logo {
+  width: 250px;
+}
+
+.nordcloud-logo {
+  width: 200px;
+  margin-top: 10px;
+  opacity: 0.65;
+}
+
+.underline {
+  border-bottom: 3px solid #ffab19;
+}
+
+p {
+  font-size: 1.4em;
+}
+
+.project-name {
+  color: #474a4c;
+  .chaser {
+    color: #ffab19;
+  }
+}
+
+.project-tagline {
+  font-family: 'Spectral SC';
+  color: #c1c1c1;
+  font-size: 12px;
+  margin-bottom: 0;
+}
+
+.page-header {
+  background-color: #fff;
+  background-image: none;
+  color: #000;
+  padding: 3rem 6rem;
+  border-bottom: 2px solid #eee;
+}
+
+.main-content {
+  p {
+    margin: 5em 0;
+    text-align: center;
+  }
+  p:first-child {
+    margin-top: 3em;
+  }
+/*  p:nth-child(even) {
+    text-align: right;
+  }*/
+}
+
+.site-footer {
+  font-size: 12px;
+  font-family: 'Spectral SC';
+  text-align: center;
+  img {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 2em;
+  }
+  .site-footer-credits {
+    color: #c1c1c1;
+    padding-top: 2em;
+    display: inline-block;
+  }
+}
