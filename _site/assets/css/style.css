@@ -321,6 +321,10 @@ body { font-family: 'Barlow Condensed'; color: rgba(96, 108, 113, 0.77); backgro
 
 .logo { width: 250px; }
 
+.cta { padding: 1em; font-weight: 700; color: white; text-transform: uppercase; border: 2px solid #e59a16; background-color: #ffab19; }
+
+.cta:hover { text-decoration: none; }
+
 .nordcloud-logo { width: 200px; margin-top: 10px; opacity: 0.65; }
 
 .underline { border-bottom: 3px solid #ffab19; }
